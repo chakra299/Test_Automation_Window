@@ -10,5 +10,9 @@ public class TestFirst {
 		
 		System.out.println("its git testing");
 	}
-
+	@Test
+	public void test2() {
+		
+		System.out.println("its git second testing");
+	}
 }
